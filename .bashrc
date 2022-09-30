@@ -6,6 +6,8 @@ alias vim=nvim
 
 export EDITOR=nvim
 
+export GIT_EDITOR=nvim
+
 set -o vi
 
 if [[ -f "/usr/lib/git-core/git-sh-prompt" ]]; then
